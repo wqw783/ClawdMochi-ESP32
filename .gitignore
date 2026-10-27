@@ -1,0 +1,20 @@
+# ── Arduino / 编辑器临时目录 ──────────────────────────────
+*.tmpdir/
+.tmpdir/
+
+# ── 旧版本备份（内容与现行源码一致，仅换行符不同）────────
+clawd_mochi/clawd_mochi/
+
+# ── 本地工具与产物，不进仓库 ─────────────────────────────
+_check.js
+_check.ps1
+_verify_integration.ps1
+_build_report.txt
+_check_report.txt
+_verify_report.txt
+*.zip
+
+# ── 系统垃圾 ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
